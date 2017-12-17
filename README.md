@@ -21,7 +21,7 @@ w40-2 MockUp: https://www.fluidui.com/editor/live/preview/cF84YUZWM01HQ04xZ0lkTl
 
 w41-1: https://montsi.github.io/w41-1/
 
-w42-2: https://montsi.github.io/41-2/
+w41-2: https://montsi.github.io/41-2/
 
 w44-1: https://montsi.github.io/w44-1/
 
