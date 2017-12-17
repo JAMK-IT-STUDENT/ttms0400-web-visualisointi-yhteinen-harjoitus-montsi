@@ -3,6 +3,7 @@
 Joni Montonen, L4784, TTV16S2
 
 Harjoitustyö osoitteessa: https://montsi.github.io/harjoitustyo/
+Harjoitustyön raportti: https://github.com/montsi/harjoitustyo
 
 Harjoitukset: 
 
